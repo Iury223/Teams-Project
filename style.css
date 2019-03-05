@@ -1,0 +1,38 @@
+
+/*--Main Divs of the header Only----*/
+.container-con{
+  padding: 0;
+}
+.row-con{
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  background-image: url('images/bgbg.jpg');
+  background-repeat: no-repeat;
+}
+.div-con{
+  margin: 0;
+  padding: 3rem;
+  border: 1px #000 solid;
+
+}
+.con{
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.con-l{
+  background-color: rgba(0, 0, 0, 0.6);
+}
+/*--Main Divs of the header Only----*/
+/*--Text css for all of the project----*/
+h1{
+  opacity: 1;
+  color: #000;
+}
+.text-con{
+  opacity: 1;
+  color: #000;
+}
+.text-con-l{
+  color: #fff;
+}
+/*--Text css for all of the project----*/
